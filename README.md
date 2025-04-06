@@ -2,17 +2,15 @@
 <h3 align="center">👨‍💻 Robotic Systems Engineering Master's student at RWTH Aachen <br/> 🔬 Skilled in Python, PyTorch, TensorFlow, Keras, NumPy, SciPy, OpenCV and Matplotlib for machine learning and computer vision projects.</h3>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
 
-- 🔭 I’m currently working on **Sentiment analysis of social media data using NLP techniques**
+- 🚀 Currently working on my Master’s thesis focused on developing a bimanual robotic system for object manipulation using 6DOF arms, ROS 2, and NVIDIA Isaac Sim. Integrating imitation learning, reinforcement learning, RGB-D perception, motion planning, and real-time control. Also contributed to setting up the complete robotic system, implementing TCP/IP communication, developing Python-based control scripts using API, and generating synthetic datasets for ML applications. Additional background in industrial automation, machine design, and workflow optimization.
 
-- 🌱 I’m currently learning **Pytorch Lightning, Hydra and REST Api**
-
-- 📫 How to reach me **akashnaokar@gmail.com**
+- 📫 How to reach me **naokar_akash@outlook.com**
 
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/akashnaokar/)
 
-- ⚡ Fun fact **I'm a history buff diving deep into Indian history and the thrilling world of geopolitics.**
+- ⚡ Fun fact **I'm a history buff diving deep into history and the thrilling world of geopolitics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
